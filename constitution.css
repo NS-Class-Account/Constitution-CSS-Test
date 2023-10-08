@@ -1,0 +1,35 @@
+body{
+	background: -webkit-linear-gradient(right, #00FF00, #000000, #00aa00);
+	background: -moz-linear-gradient(right, #00FF00, #000000, #00aa00);
+	background: -o-linear-gradient(right, #00FF00, #000000, #f0f5f0);
+	background: linear-gradient(50deg, #aa5b00, #54748d, #186b91, #aa5b00);
+	color: #00FF00;
+}
+
+h1{
+	color: #ffee00;
+	text-shadow:0 0 2px rgb(255, 0, 0);
+	font-family: times new roman, bold;
+}
+
+h2{
+	color: #ffee00;
+	text-shadow:0 0 2px rgb(255, 0, 0);
+	font-family: times new roman, bold;
+}
+
+h3{
+	color: #ffee00;
+	text-shadow:0 0 2px rgb(255, 0, 0);
+	font-family: times new roman, bold;
+}
+
+p{
+	color: #dddddd;
+	text-shadow:0 0 2px purple;
+	font-family: times new roman, italic;
+}
+
+a:visited{
+	color: aqua;
+}
